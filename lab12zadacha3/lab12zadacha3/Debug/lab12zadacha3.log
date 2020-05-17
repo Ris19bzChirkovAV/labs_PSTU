@@ -1,0 +1,39 @@
+﻿  Time.cpp
+  lab12zadacha3.cpp
+D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(47): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::Print(void)"
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(13): note: выполняется компиляция ссылки на экземпляр шаблон класс "Container<Time>"
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(97): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(96): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(18): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::AddToFirst(T)"
+          with
+          [
+              T=Time
+          ]
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(102): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(111): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(110): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(22): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::DeleteMin(T)"
+          with
+          [
+              T=Time
+          ]
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(116): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(130): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(125): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(26): note: выполняется компиляция ссылки на экземпляр шаблон функции "Time Container<Time>::Srd(void)"
+D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(146): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\Container.h(142): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab12zadacha3\lab12zadacha3\lab12zadacha3.cpp(26): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::AddToAll(T)"
+          with
+          [
+              T=Time
+          ]
+  Создание кода...
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(21): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(40): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(31): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(64): warning C4172: возвращение адреса локальной или временной переменной : p
+  lab12zadacha3.vcxproj -> D:\labsRis19\lab12zadacha3\Debug\lab12zadacha3.exe
