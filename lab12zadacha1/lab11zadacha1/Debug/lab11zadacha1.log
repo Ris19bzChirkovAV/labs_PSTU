@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab11zadacha1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(45): warning C4244: инициализация: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(50): warning C4244: =: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(76): warning C4244: инициализация: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(81): warning C4244: =: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab12zadacha1\lab11zadacha1\main.cpp(104): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab11zadacha1.vcxproj -> D:\labsRis19\lab12zadacha1\Debug\lab12zadacha1.exe
