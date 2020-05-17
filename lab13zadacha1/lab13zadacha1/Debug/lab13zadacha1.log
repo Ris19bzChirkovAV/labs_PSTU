@@ -1,0 +1,5 @@
+﻿  lab13zadacha1.cpp
+D:\labsRis19\lab13zadacha1\lab13zadacha1\lab13zadacha1.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab13zadacha1\lab13zadacha1\lab13zadacha1.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab13zadacha1\lab13zadacha1\lab13zadacha1.cpp(70): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab13zadacha1.vcxproj -> D:\labsRis19\lab13zadacha1\Debug\lab13zadacha1.exe
