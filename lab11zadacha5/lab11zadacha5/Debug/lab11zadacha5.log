@@ -1,0 +1,40 @@
+﻿  Time.cpp
+  main.cpp
+D:\labsRis19\lab11zadacha5\lab11zadacha5\main.cpp(10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(148): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(141): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\main.cpp(23): note: выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Average(void)"
+          with
+          [
+              T=Time
+          ]
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\main.cpp(11): note: выполняется компиляция ссылки на экземпляр шаблон класс "Vector<Time>"
+D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(167): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(162): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\main.cpp(23): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::AddToAll(T)"
+          with
+          [
+              T=Time
+          ]
+D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(129): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(126): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\main.cpp(19): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::DeleteMin(T)"
+          with
+          [
+              T=Time
+          ]
+D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(41): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(83): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::stack<T,std::deque<_Ty,std::allocator<_Ty>>> CopyVectorToStack<T>(std::vector<_Ty,std::allocator<_Ty>>)"
+          with
+          [
+              T=Time,
+              _Ty=Time
+          ]
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\Vector.h(76): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  D:\labsRis19\lab11zadacha5\lab11zadacha5\main.cpp(12): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
+  Создание кода...
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(21): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(31): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(64): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(40): warning C4172: возвращение адреса локальной или временной переменной : p
+  lab11zadacha5.vcxproj -> D:\labsRis19\lab11zadacha5\Debug\lab11zadacha5.exe
