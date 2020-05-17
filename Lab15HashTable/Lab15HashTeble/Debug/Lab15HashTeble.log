@@ -1,0 +1,4 @@
+﻿  HashTable.cpp
+D:\Lab15HashTeble\Lab15HashTeble\HashTable.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Lab15HashTeble\Lab15HashTeble\HashTable.cpp(60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab15HashTeble.vcxproj -> D:\Lab15HashTeble\Debug\Lab15HashTeble.exe
