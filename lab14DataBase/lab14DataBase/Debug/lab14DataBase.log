@@ -1,0 +1,12 @@
+﻿  lab14DataBase.cpp
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(152): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\lab14DataBase\lab14DataBase\lab14DataBase.cpp(162): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab14DataBase.vcxproj -> D:\labsRis19\lab14DataBase\Debug\lab14DataBase.exe
