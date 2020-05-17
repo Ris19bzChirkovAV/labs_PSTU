@@ -1,0 +1,9 @@
+﻿  lab11Zadacha1.cpp
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\lab11Zadacha1\lab11Zadacha1.cpp(85): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab11Zadacha1.vcxproj -> C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11Zadacha1\Debug\lab11Zadacha1.exe
