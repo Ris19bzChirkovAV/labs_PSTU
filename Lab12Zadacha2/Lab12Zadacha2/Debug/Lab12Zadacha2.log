@@ -1,0 +1,16 @@
+﻿  Time.cpp
+  Lab12Zadacha2.cpp
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labsRis19\Lab12Zadacha2\Lab12Zadacha2\Lab12Zadacha2.cpp(104): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(21): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(31): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(64): warning C4172: возвращение адреса локальной или временной переменной : p
+C:\Users\Андрей\Desktop\Рис19семестр2\Информатика Основы Алгоритмизации Теории Алгоритмов\lab11proba2\lab11proba2\Time.cpp(40): warning C4172: возвращение адреса локальной или временной переменной : p
+  Lab12Zadacha2.vcxproj -> D:\labsRis19\Lab12Zadacha2\Debug\Lab12Zadacha2.exe
