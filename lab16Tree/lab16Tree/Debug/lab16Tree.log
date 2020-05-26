@@ -1,0 +1,4 @@
+﻿  lab16Tree.cpp
+D:\labsRis19\lab16Tree\lab16Tree\lab16Tree.cpp(11): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\labsRis19\lab16Tree\lab16Tree\lab16Tree.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+  lab16Tree.vcxproj -> D:\labsRis19\lab16Tree\Debug\lab16Tree.exe
